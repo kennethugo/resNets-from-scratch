@@ -1,2 +1,11 @@
 # resNets-from-scratch
-Building a very deep convolutional network, using Residual Networks (ResNets)
+Building a very deep convolutional network, using Residual Networks (ResNets). 
+
+# Objective
+* Implementation of the basic building blocks of ResNets in a deep neural network using Keras
+* Implement a skip connection in your network
+* Bringing all these building blocks together to implement and train a state-of-the-art neural network for image classification
+
+# Reference
+This is part of my part of the assignment of Course 4 (Convolutional Neural Networks, week 2) in the Deep Learning Specialization course!, deeplearning.ai. Some of this code are part of the assignment from deeplearning.ai
+
