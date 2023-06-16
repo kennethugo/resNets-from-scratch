@@ -1,5 +1,5 @@
 # resNets-from-scratch
-Building a very deep convolutional network, using Residual Networks (ResNets). 
+Building a very deep convolutional network, using Residual Networks (ResNets) 50 layers. 
 
 # Objective
 * Implementation of the basic building blocks of ResNets in a deep neural network using Keras
